@@ -1,4 +1,5 @@
 # Telecom Customer Churn Prediction: A Data-Driven Approach to Retention
+![image](https://github.com/user-attachments/assets/b1ed6455-fea4-41ef-823c-250fbe2f2793)
 
 ## Executive Summary
 
@@ -27,7 +28,7 @@ The analysis is based on the **Telecom Customer Churn** dataset, available on Ka
 ### 1. **Exploratory Data Analysis (EDA)**  
    In-depth exploratory analysis is conducted to uncover hidden patterns and relationships within the data. Visualizations and statistical tests help us understand the distribution of churn across various features and identify factors that most strongly correlate with customer attrition.
    ![image](https://github.com/user-attachments/assets/d0d7025d-49f2-4648-aa73-2df1d003bbce)
-   ##Insights:
+   **Insights**:
 * **Month-to-month contracts**: Customers on flexible, short-term plans are more likely to churn, lacking long-term commitment.
 *   **Absence of online security and tech support**: Customers without these services tend to leave more often.
 *   **Longer tenure and two-year contracts**: Customers who stay longer or sign up for longer terms show lower churn, indicating stronger loyalty.
