@@ -8,6 +8,7 @@ Customer churn remains one of the most critical challenges in the telecommunicat
 ## Dataset Overview
 
 The analysis is based on the **Telecom Customer Churn** dataset. This dataset captures a diverse set of features across customer demographics, service usage, and account details, making it ideal for building a predictive churn model. The dataset includes:
+
 ![image](https://github.com/user-attachments/assets/71475caf-140b-4db9-ac70-f64ec6956201)
 
 
